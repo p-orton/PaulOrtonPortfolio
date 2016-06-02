@@ -1,2 +1,0 @@
-# paulorton.ca
-Personal Portfolio
